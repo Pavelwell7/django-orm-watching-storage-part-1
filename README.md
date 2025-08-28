@@ -1,6 +1,6 @@
 # Bank security console
 
-This is the internal repository of the bank "We will take your money". If you got here by accident, then you do not have access to the database, but you can view and use the layout code
+This is the internal repository of the bank "We will take your money". If you got here by accident, then you do not have access to the database, but you can view and use the layout code.
 
 ### How to install
 
