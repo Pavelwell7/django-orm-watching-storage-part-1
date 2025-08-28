@@ -6,9 +6,9 @@ This is the internal repository of the bank "We will take your money". If you go
 
 The project uses the following settings:
 
-DJANGO_SETTINGS_MODULE - specifies the path to the module with Django settings
+`DJANGO_SETTINGS_MODULE` - specifies the path to the module with Django settings.
 
-To work with the database, you need to configure the appropriate parameters in the settings.py file
+To work with the database, you need to configure the appropriate parameters in the `settings.py` file.
 
 Python3 should be already installed. 
 Then use `pip` (or `pip3`, if there is a conflict with Python2) to install dependencies:
